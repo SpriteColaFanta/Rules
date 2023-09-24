@@ -16,3 +16,10 @@ IP-CIDR,203.107.1.65/32,Bilibili
 // 港台版 Bilibili App
 USER-AGENT,bili-inter*,Bilibili
 DOMAIN,apiintl.biliapi.net,Bilibili
+# > Bilibili SEA
+// USER-AGENT,bilibili,BilibiliSEA
+DOMAIN-SUFFIX,biliintl.com,BilibiliSEA
+DOMAIN,apm-misaka.biliapi.net,BilibiliSEA
+DOMAIN,p-bstarstatic.akamaized.net,BilibiliSEA
+DOMAIN,upos-bstar-mirrorakam.akamaized.net,BilibiliSEA
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net,BilibiliSEA
