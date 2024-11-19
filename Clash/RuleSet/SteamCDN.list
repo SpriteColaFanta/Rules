@@ -1,16 +1,16 @@
 payload:
-  - DOMAIN,csgo.wmsj.cn,🎮 SteamCDN
-  - DOMAIN,dl.steam.clngaa.com,🎮 SteamCDN
-  - DOMAIN,dl.steam.ksyna.com,🎮 SteamCDN
-  - DOMAIN,dota2.wmsj.cn,🎮 SteamCDN
-  - DOMAIN,st.dl.bscstorage.net,🎮 SteamCDN
-  - DOMAIN,st.dl.eccdnx.com,🎮 SteamCDN
-  - DOMAIN,st.dl.pinyuncloud.com,🎮 SteamCDN
-  - DOMAIN,steampipe.steamcontent.tnkjmec.com,🎮 SteamCDN
-  - DOMAIN,steampowered.com.8686c.com,🎮 SteamCDN
-  - DOMAIN,steamstatic.com.8686c.com,🎮 SteamCDN
-  - DOMAIN,wmsjsteam.com,🎮 SteamCDN
-  - DOMAIN-SUFFIX,cm.steampowered.com,🎮 SteamCDN
-  - DOMAIN-SUFFIX,steamchina.com,🎮 SteamCDN
-  - DOMAIN-SUFFIX,steamcontent.com,🎮 SteamCDN
-  - DOMAIN-SUFFIX,steamusercontent.com,🎮 SteamCDN
+  - DOMAIN,csgo.wmsj.cn
+  - DOMAIN,dl.steam.clngaa.com
+  - DOMAIN,dl.steam.ksyna.com
+  - DOMAIN,dota2.wmsj.cn
+  - DOMAIN,st.dl.bscstorage.net
+  - DOMAIN,st.dl.eccdnx.com
+  - DOMAIN,st.dl.pinyuncloud.com
+  - DOMAIN,steampipe.steamcontent.tnkjmec.com
+  - DOMAIN,steampowered.com.8686c.com
+  - DOMAIN,steamstatic.com.8686c.com
+  - DOMAIN,wmsjsteam.com
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamchina.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamusercontent.com
