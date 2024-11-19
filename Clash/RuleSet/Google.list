@@ -1,36 +1,36 @@
 payload:
   # > Goole Play
   # 解决国行设备 Google Play 无法正常下载的问题
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,services.googleapis.cn
-  - DOMAIN-KEYWORD,www.google.
-  - PROCESS-NAME,com.google.android.videos
-  - DOMAIN,androidtvlauncherxfe-pa.googleapis.com
-  - DOMAIN,androidtvwatsonfe-pa.googleapis.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-KEYWORD,www.google.
+PROCESS-NAME,com.google.android.videos
+DOMAIN,androidtvlauncherxfe-pa.googleapis.com
+DOMAIN,androidtvwatsonfe-pa.googleapis.com
   # Homatics Box 需此条走特定代理
-  - DOMAIN,www.googleapis.com
+DOMAIN,www.googleapis.com
   # > Gemini
-  - DOMAIN,ai.google.dev
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN,makersuite.google.com
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,deepmind.google
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,generativeai.google
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-  - DOMAIN-SUFFIX,apis.google.com
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,developerprofiles
-  - DOMAIN-KEYWORD,generativelanguage
+DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
   # > YouTube
   # USER-AGENT,*YouTube*
   # USER-AGENT,*youtube*
-  - PROCESS-NAME,com.amazon.firetv.youtube
-  - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN,youtubei.googleapis.com
-  - DOMAIN-KEYWORD,youtube
+PROCESS-NAME,com.amazon.firetv.youtube
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN-KEYWORD,youtube
   # > Google Play 修正
   # DOMAIN,android.clients.google.com
   # DOMAIN,connectivitycheck.gstatic.com
