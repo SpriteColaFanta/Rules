@@ -36,4 +36,7 @@ payload:
   - DOMAIN,cbsservice.aws.syncbak.com
   - DOMAIN,cbsplaylistserver.aws.syncbak.com
 
+  # > AMC
+  - DOMAIN-SUFFIX,amcn.com
+  - DOMAIN-SUFFIX,amcplus.com
 
