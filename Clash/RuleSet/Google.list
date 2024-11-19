@@ -23,3 +23,14 @@ payload:
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
+  # > YouTube
+  # USER-AGENT,*YouTube*
+  # USER-AGENT,*youtube*
+  - PROCESS-NAME,com.amazon.firetv.youtube
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN,youtubei.googleapis.com
+  - DOMAIN-KEYWORD,youtube
+  # > Google Play 修正
+  # DOMAIN,android.clients.google.com
+  # DOMAIN,connectivitycheck.gstatic.com
