@@ -84,6 +84,10 @@ DOMAIN,pubads.g.doubleclick.net
 DOMAIN,www.googleadservices.com
 DOMAIN-KEYWORD,adservice.google.com.
 
+  # > Disney+ with Hulu
+DOMAIN-SUFFIX,disneyadvertising.com
+  # DOMAIN-SUFFIX,ads.digital.disneyadvertising.com
+
   # > ICBC
 DOMAIN,oisc.icbc.com.cn
 DOMAIN,pageviewp.icbc.com.cn
