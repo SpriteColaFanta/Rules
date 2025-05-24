@@ -184,5 +184,3 @@ DOMAIN-SUFFIX,weatherkit.apple.com
 DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,www.apple.com
 DOMAIN-SUFFIX,xp.apple.com
-  # PROCESS-NAME,storedownloadd // Mac App Store
-  # USER-AGENT,com.apple.appstored* // iOS App Store
