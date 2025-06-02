@@ -1,6 +1,6 @@
 payload:
-DOMAIN,sp.mypikpak.com
-DOMAIN,sp.mypikpak.net
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
 DOMAIN,mypikpak.com
 DOMAIN,mypikpak.net
 DOMAIN,user.mypikpak.com
